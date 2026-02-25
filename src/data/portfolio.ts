@@ -447,4 +447,76 @@ This project taught me:
 
 This shows how I approached building a community-driven, multi-sided product, starting from a simple sketch and shipping it as a real, usable experience.`,
   },
+  {
+    id: "flytlearn",
+    title: "Flyt Learn",
+    tagline: "Skyrocket the financial you",
+    category: "EdTech / Non-Profit",
+    year: "2022",
+    description: "A non-profit mobile app teaching financial literacy to kids and teens through bite-sized content and interactive quizzes - because money management shouldn't wait until your first job.",
+    thesis: `## The Problem: We Teach Careers, Not Money
+
+As a pre-final year undergrad, I kept noticing a weird gap: everyone around me talked about careers, internships, and salaries, but almost no one actually understood the basics of money management.
+
+Flyt Learn was our attempt—four students from VIT—to build a simple, non-intimidating way for kids and teens to learn core financial concepts through an interactive mobile app.
+
+Even today, most schools in India (and globally) still don't treat financial literacy as a core part of education.
+
+A few key issues stood out to me:
+
+- **Most financial scams happen because people don't understand basic finance**, even if they are otherwise highly educated
+- **Money management and financial literacy are rarely part of the formal school curriculum**, so students enter the job market with zero structured training in handling money
+- **Teens aged 13–19 will soon start earning and making financial decisions**, but they are not exposed to foundational concepts early enough
+- Recent government action signals that financial literacy will be introduced into formal school education, but that process will take time. We wanted to fill that gap now, so kids don't have to wait for the system to catch up.
+
+## The Solution: Skyrocket "The Financial You"
+
+Flyt Learn is a non-profit initiative focused on helping kids and teens build strong financial foundations while they are still in their comfort zone—on their phones, consuming bite-sized content.
+
+The core idea:
+
+- Use an **interactive mobile application** to teach financial concepts in easy-to-read, easy-to-understand language
+- Start from the **grassroots level** (absolute basics) and gradually build up to how financial systems and assets actually operate
+- Make it **free to access**, because we see financial literacy as a necessity, not a premium add-on
+
+Our tagline, "Skyrocket the Financial You," captured that aspiration: we wanted students to grow not just academically, but financially aware and confident.
+
+## Product: What Flyt Learn Offers
+
+From a student-builder perspective, Flyt Learn revolves around two pillars: content and quizzes.
+
+**Well-curated, practical content:**
+- Minimalistic, clean, non-funky design to keep attention on the text and ideas
+- Practical, use-case-based modules that show how money, assets, and financial systems work in real life
+- Designed to build the right money habits and financial wisdom early, so students can move toward a stable and progressive financial future
+
+**Interactive quizzes, absolutely free:**
+- Quizzes attached to content to reinforce learning and make the experience more engaging
+- Entire content plus quizzes offered free of cost, reflecting our belief that this is essential education for Gen Z
+
+The app experience is intentionally simple and focused—no distractions, just clear, progressive learning.
+
+## Distribution: Why Schools Matter
+
+We realised quickly that if we wanted to create real impact, we couldn't rely only on organic app discovery.
+
+Schools play a critical role in shaping how students think, so Flyt Learn's strategy was to:
+
+- **Partner with schools** to distribute the app among their students as part of career and life-skills development
+- **Use schools as a way to reach a large audience** in a short period of time, rather than spending years trying to grow purely organically
+
+In other words, we wanted schools to treat Flyt Learn as a complement to their future financial literacy curriculum, helping students get a head start rather than "missing out" until the syllabus catches up.
+
+## Why This Idea Mattered To Me As A Student
+
+Working on Flyt Learn as a student was my way of responding to something I felt personally: we were all growing up, talking about packages and placements, but not about how to manage money once it actually arrived.
+
+This project taught me:
+
+- That **non-profit, impact-first products can still be product-led and well designed**
+- How to think about **distribution via institutions** (schools) instead of just app stores
+- How **content, UX, and mission can align** to serve a very specific generation: kids and teens of the Gen Z era
+
+For my portfolio, Flyt Learn is the chapter where I started thinking about education, behaviour change, and long-term impact—not just features or screens.`,
+  },
 ];
